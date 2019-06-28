@@ -17,4 +17,5 @@ public class Item {
 	//不好!
 	//11好
 	////////大厦
+	//ASDA
 }
